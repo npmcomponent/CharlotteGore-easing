@@ -1,4 +1,4 @@
-var Bezier = require('bezier');
+var Bezier = require('charlottegore-bezier');
 
 var presets = {
 	"ease" : [0.25,0.1,0.25,1],

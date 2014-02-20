@@ -1,0 +1,10 @@
+{
+  "name": "charlottegore-easing",
+  "description": "Bezier Curve based easing generator",
+  "version": "1.0.0",
+  "keywords": [],
+  "dependencies": {
+    "charlottegore-bezier": "git://github.com/npmcomponent/charlottegore-bezier.git"
+  },
+  "license": "MIT"
+}
